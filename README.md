@@ -1,6 +1,5 @@
 # python-practice
 
-# **Ralph Lakson**
 
 Name:____________________ _Ralph Lakson_
 
